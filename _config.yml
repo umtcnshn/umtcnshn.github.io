@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Amipima
+bio: Finally my blog where I can share my limited but expanding knowledge with the world! 
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -34,38 +34,32 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+# facebook: https://www.facebook.com/umitcan.sahin.9
+#twitter: mytwitter
 # google: mygoogle
-# instagram: myinstagram
+# instagram: https://www.instagram.com/umtcshn/?hl=en
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: https://www.linkedin.com/in/umitcan-sahin-02b44679/
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: https://github.com/umtcnshn
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: umit92sahin@gmail.com
 
 authors:
     johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+        name: Amipima
+        bio: A man who exists
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        #twitter: johndoe
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
