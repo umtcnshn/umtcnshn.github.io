@@ -8,16 +8,16 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: umtcnshn.github.io/assets/images/profile.jpg
+picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
-# your url: http://USERNAME.github.io
+#url: https://koppl.in/indigo
+your url: http://umtcnshn.github.io
 
 permalink: /:title/
 
@@ -58,7 +58,7 @@ authors:
         name: Amipima
         bio: A man who exists
         external-image: false
-        picture: umtcnshn.github.io/assets/images/profile.jpg
+        picture: assets/images/profile.jpg
         #twitter: johndoe
 
 # do you want a larger site? change the option below
